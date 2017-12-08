@@ -28,3 +28,7 @@ PHP SDK
 > - Ubicar los archivos de la carpeta en un servidor con PHP en la raiz del directorio web (ejm: www, htdocs) ***importante***
 > - Ejecutar el comando **composer install --no-dev** para descargar todas las dependencias
 > - Ir a la direccion del servidor y se estara ejecutando la aplicacion.
+
+# Vista previa
+
+![Preview](epayco_chekout.png?raw=true "Preview")
