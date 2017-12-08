@@ -1,0 +1,18 @@
+.container-product {
+  padding: 10px;
+  border: 1px #ddd solid;
+  border-radius: 5px;
+  width: 400px;
+}
+
+.description {
+  margin-left: 10px;
+  display: inline-block;
+  width: auto;
+}
+
+.img-product {
+  display: inline-block;
+  height: 120px;
+  width: auto;
+}

@@ -1,0 +1,26 @@
+.Response {
+  margin: 30px;
+}
+
+.intro {
+  font-size: large;
+}
+
+.data-container {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.response {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.data {
+  margin-bottom: 10px;
+}
+
+.data div {
+  padding: 5px;
+}

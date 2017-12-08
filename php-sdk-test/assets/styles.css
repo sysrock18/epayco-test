@@ -1,0 +1,107 @@
+.navbar-custom {
+  color: #FFFFFF;
+  background-color: rgb(236, 145, 40) !important;
+}
+
+.navbar-brand {
+  color: #FFFFFF !important;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.formCheckout {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+  width: 70%;
+}
+
+.Error404 {
+  padding: 10px;
+}
+
+.container-product {
+  padding: 10px;
+  border: 1px #ddd solid;
+  border-radius: 5px;
+  width: 400px;
+}
+
+.description {
+  margin-left: 10px;
+  display: inline-block;
+  width: auto;
+}
+
+.img-product {
+  display: inline-block;
+  height: 120px;
+  width: auto;
+}
+
+.Response {
+  margin: 30px;
+}
+
+.intro {
+  font-size: large;
+}
+
+.data-container {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.response {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.data {
+  margin-bottom: 10px;
+}
+
+.data div {
+  padding: 5px;
+}
+
+#cashContainer, #creditContainer {
+  display: none;
+}
+
+.Response {
+  margin: 30px;
+}
+
+.intro {
+  font-size: large;
+}
+
+.data-container {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.response {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.data {
+  margin-bottom: 10px;
+}
+
+.data div {
+  padding: 5px;
+}
+
